@@ -6,4 +6,4 @@
 The HTML Section Heading elements
 * welcome
 
-<img src="C:\Users\ramak\Downloads\download">
+<img src="C:\Users\ramak\Downloads\download.jpg">
