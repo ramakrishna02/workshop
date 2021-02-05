@@ -4,6 +4,5 @@
 ### hello kittu
 #### hello kittu
 The HTML Section Heading elements
-* welcome
-<img scr="Download/download.jpg>
+<img scr="D:\pictures\wp.jpg">
 
