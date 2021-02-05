@@ -5,5 +5,5 @@
 #### hello kittu
 The HTML Section Heading elements
 * welcome
-<img scr='D:/pictures/11.png'>
+<img scr="Download/download.jpg>
 
