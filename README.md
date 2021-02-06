@@ -25,3 +25,8 @@ Content column 1  | content column 2
 
 :+1: :sparkles: :camel: :tada:
 :rocket: :metal: :octocat:
+
+how to initalize github project
+-[] git add .
+-[x] git init
+-[] git remote
