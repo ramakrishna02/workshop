@@ -14,4 +14,4 @@ The HTML Section Heading elements
 4 Web2py
 _______
 
-[GITHUB] (https://github.com)
+[GITHUB](https://github.com)
