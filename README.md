@@ -22,3 +22,6 @@ First Header | Second Header
 ------------ | -------------
 Contentcell 1  | content cell2
 Content column 1  | content column 2
+
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
